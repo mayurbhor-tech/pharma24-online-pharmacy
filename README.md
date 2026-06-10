@@ -7,7 +7,7 @@ Pharma24 is a modern online  pharmacy web  application  built using HTML, CSS, a
 ## Features
 
 - User Login System
-- Responsive Design
+- Responsive  Design
 - Medicine Product  Catalog
 - Product Discounts & Offers
 - Secure Payment Interface
