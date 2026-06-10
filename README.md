@@ -23,7 +23,7 @@ Pharma24 is a modern online  pharmacy web application built using HTML, CSS, and
 - Font Awesome
 - Google Fonts
 
-## Project Structure
+## Project  Structure
 
 ├── index.html
 ├── images/
