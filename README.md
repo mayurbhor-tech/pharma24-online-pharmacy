@@ -41,6 +41,6 @@ Pharma24 is a modern online  pharmacy web  application  built using HTML, CSS, a
 
 Your Name
 
-## License
+##  License
 
 MIT License
