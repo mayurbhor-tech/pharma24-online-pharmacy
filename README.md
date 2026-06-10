@@ -39,7 +39,7 @@ Pharma24 is a modern online  pharmacy web  application  built using HTML, CSS, a
 
 ## Author
 
-Your Name
+mayur bhor
 
 ##  License
 
