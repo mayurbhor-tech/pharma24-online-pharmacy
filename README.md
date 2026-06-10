@@ -15,7 +15,7 @@ Pharma24 is a modern online  pharmacy web application built using HTML, CSS, and
 - Modern Animations
 - Local  Storage Authentication
 
-## Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
