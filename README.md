@@ -33,7 +33,7 @@ Pharma24 is a modern online  pharmacy web  application  built using HTML, CSS, a
 ## Screenshots
 
 - Login Page
-- Home Page
+- Home  Page
 - Product  Section
 - Payment  Gateway
 
